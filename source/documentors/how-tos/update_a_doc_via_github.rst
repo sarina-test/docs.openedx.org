@@ -34,7 +34,7 @@ Prerequisites
 
 #. In the Commit Changes section at the bottom of the edit window:
 
-   #. Add a comment about the changes you made.
+   #. Add a comment about the changes you made. **Make sure the comment is descriptive!**
 
    #. Click :guilabel:`Commit changes` to save these changes to your branch.
 
